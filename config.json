@@ -1,0 +1,30 @@
+{
+  "mysql": {
+    "host": "CHANGE ME",
+    "port": "CHANGE ME",
+    "user": "CHANGE ME",
+    "password": "CHANGE ME",
+    "database": "CHANGE ME"
+  },
+  "license": {
+    "check": 5,
+    "minTime": 2,
+    "animTimer": 5
+  },
+  "embed": {
+    "errorColor": "#e50113",
+    "pendingColor": "#ff8d00",
+    "successColor": "#1bf207",
+    "errorImg": "https://i.imgur.com/uS57EFF.png",
+	"loadAnim": "https://i.imgur.com/llF5iyg.gif"
+  },
+  "bot": {
+    "status": {
+      "type": "PLAYING",
+      "text": "with licenses"
+    },
+    "prefix": "CHANGE ME",
+    "authorizedRole": "CHANGE ME",
+    "token": "CHANGE ME"
+  }
+}
