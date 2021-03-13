@@ -5,9 +5,9 @@ Requirements:
 3. XAMPP(to database): https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/ after download run the apache and mysql.
 
 Important:
-Change all of things described: CHANGE ME like "token".
-Open the terminal and write this command: npm i --save.
-Also open the database and import the executeMe.sql file into database.
+1. Change all of things described: CHANGE ME like "token".
+2. Open the terminal and write this command: npm i --save.
+3. Also open the database and import the executeMe.sql file into database.
 
 
 
