@@ -14,4 +14,4 @@ To turn on the bot you type: node index.js , and if you did everything right it 
 
 
 If any problems create a issue or just type to me on Discord!.
-ijustuseu#8080
+cya#8080
